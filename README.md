@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atif Ibrahim Abbasi</h1>
 <h3 align="center">A Computer Science student from FAST Islamabad Graduating in 2026.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atifibrahim7&label=Profile%20views&color=0e75b6&style=flat" alt="atifibrahim7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atifibrahim7" alt="atifibrahim7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/atifibrahim7?tab=repositories](https://github.com/atifibrahim7?tab=repositories)
+
+- 📫 How to reach me **aatiifibrahim@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aatifibrahim/](https://www.linkedin.com/in/aatifibrahim/)
 
