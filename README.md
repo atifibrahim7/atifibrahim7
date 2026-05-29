@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif Ibrahim Abbasi</h1>
-<h3 align="center">A Computer Science student from FAST Islamabad Graduating in 2026.</h3>
+<h3 align="center">A Computer Science student .</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/atifibrahim7?tab=repositories](https://github.com/atifibrahim7?tab=repositories)
 
