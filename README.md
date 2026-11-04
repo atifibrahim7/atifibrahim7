@@ -11,39 +11,39 @@
   <img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-2ea44f?style=for-the-badge" alt="Open to AI/ML roles" />
 </p>
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%237aa2f7&height=24" height="24" alt="" /> About me
+## <img src="assets/icons/user-round.svg" height="24" alt="" /> About me
 
-- <img src="https://api.iconify.design/lucide/bot.svg?color=%237aa2f7&height=16" height="16" alt="" /> ML engineer with **1+ year of production experience**: training, evaluating and deploying models
-- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%237aa2f7&height=16" height="16" alt="" /> I fine-tune LLMs (**LoRA on Qwen3-8B**) and build **RAG systems** with calibrated evaluation
-- <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%237aa2f7&height=16" height="16" alt="" /> I ship **computer-vision and vision-LLM pipelines**: YOLOv8, DeepSORT, vision-language models
-- <img src="https://api.iconify.design/lucide/zap.svg?color=%237aa2f7&height=16" height="16" alt="" /> I make models fast on GPUs with **CUDA** (streams, pinned memory, Tensor Cores)
-- <img src="https://api.iconify.design/lucide/database.svg?color=%237aa2f7&height=16" height="16" alt="" /> I build the data pipelines that feed ML: **Kafka, Spark**, real-time analytics
-- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%237aa2f7&height=16" height="16" alt="" /> Based in Islamabad, open to **AI/ML engineer roles**
+- <img src="assets/icons/bot.svg" height="16" alt="" /> ML engineer with **1+ year of production experience**: training, evaluating and deploying models
+- <img src="assets/icons/sparkles.svg" height="16" alt="" /> I fine-tune LLMs (**LoRA on Qwen3-8B**) and build **RAG systems** with calibrated evaluation
+- <img src="assets/icons/scan-eye.svg" height="16" alt="" /> I ship **computer-vision and vision-LLM pipelines**: YOLOv8, DeepSORT, vision-language models
+- <img src="assets/icons/zap.svg" height="16" alt="" /> I make models fast on GPUs with **CUDA** (streams, pinned memory, Tensor Cores)
+- <img src="assets/icons/database.svg" height="16" alt="" /> I build the data pipelines that feed ML: **Kafka, Spark**, real-time analytics
+- <img src="assets/icons/map-pin.svg" height="16" alt="" /> Based in Islamabad, open to **AI/ML engineer roles**
 
-## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%237aa2f7&height=24" height="24" alt="" /> Experience
+## <img src="assets/icons/briefcase.svg" height="24" alt="" /> Experience
 
 - **AI & Full-Stack Engineer** · Sidelines Technologies *(Aug 2025 – present)*: built the AI coaching pipeline for SportsEdu (YOLOv8 pose, vision-language captioning, LLM feedback). Cut latency **~45%** and API cost **~70%**.
 - **Research Assistant** · Velocity Stack Research, Minneapolis *(May 2026 – present)*: RAG system grounded in 26 kinematic invariants of human movement.
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%237aa2f7&height=24" height="24" alt="" /> Featured projects
+## <img src="assets/icons/rocket.svg" height="24" alt="" /> Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| <img src="https://api.iconify.design/lucide/moon.svg?color=%237aa2f7&height=16" height="16" alt="" /> **CRESCENT** · Fine-tuned fact-checker for RAG<br><img src="https://api.iconify.design/lucide/lock.svg?color=%237aa2f7&height=16" height="16" alt="" /> *private (research)* | Qwen3-8B + LoRA checks whether a RAG answer is supported by its citations. **0.985 precision, 0.026 ECE**. The BM25 retriever puts the right passage in the top 4 for 84% of queries. | PyTorch · PEFT/LoRA · BM25 · Conformal prediction |
-| <img src="https://api.iconify.design/lucide/factory.svg?color=%237aa2f7&height=16" height="16" alt="" /> [**Vision LM Pipeline**](https://github.com/atifibrahim7/industrial-surveillance-analytics) · Industrial video analysis | YOLOv8 detection plus DeepSORT/Re-ID tracking, then a vision-LLM for activity and safety analysis. YOLO pre-filtering cuts LLM calls by **70–90%**. | YOLOv8 · DeepSORT · OpenAI Vision · FFmpeg |
-| <img src="https://api.iconify.design/lucide/cpu.svg?color=%237aa2f7&height=16" height="16" alt="" /> **Motherboard Component Detection & Tracking**<br><img src="https://api.iconify.design/lucide/lock.svg?color=%237aa2f7&height=16" height="16" alt="" /> *private (client)* | Semi-supervised detection and tracking model, **deployed on-site in production** for a Hungary-based manufacturer. | YOLOv8 · PyTorch · OpenCV · CVAT |
-| <img src="https://api.iconify.design/lucide/music.svg?color=%237aa2f7&height=16" height="16" alt="" /> [**Human vs AI Music Detection**](https://github.com/atifibrahim7/HumanAi-Music-Classification) | Detects AI-generated music. Compares 4 deep-learning models; the best reaches **85.5% accuracy**. | PyTorch · Transformers · Flask · Docker |
-| <img src="https://api.iconify.design/lucide/zap.svg?color=%237aa2f7&height=16" height="16" alt="" /> [**Neural Network on GPU**](https://github.com/atifibrahim7/NeuralNetwork-Parallelization) | MNIST network trained with CUDA optimizations: **~16x speedup** over the baseline. | CUDA · C · Tensor Cores |
-| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%237aa2f7&height=16" height="16" alt="" /> **Headless Horseman** · API gateway for AI-agent traffic<br><img src="https://api.iconify.design/lucide/lock.svg?color=%237aa2f7&height=16" height="16" alt="" /> *private* | Policy engine in front of APIs and MCP servers: **~10 ms median at 242 req/s**, 318 req/s sustained. OAuth 2.1, Stripe usage billing, 219/219 tests passing. | TypeScript · PostgreSQL · MCP · Docker · Terraform |
+| <img src="assets/icons/moon.svg" height="16" alt="" /> **CRESCENT** · Fine-tuned fact-checker for RAG<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private (research)* | Qwen3-8B + LoRA checks whether a RAG answer is supported by its citations. **0.985 precision, 0.026 ECE**. The BM25 retriever puts the right passage in the top 4 for 84% of queries. | PyTorch · PEFT/LoRA · BM25 · Conformal prediction |
+| <img src="assets/icons/factory.svg" height="16" alt="" /> [**Vision LM Pipeline**](https://github.com/atifibrahim7/industrial-surveillance-analytics) · Industrial video analysis | YOLOv8 detection plus DeepSORT/Re-ID tracking, then a vision-LLM for activity and safety analysis. YOLO pre-filtering cuts LLM calls by **70–90%**. | YOLOv8 · DeepSORT · OpenAI Vision · FFmpeg |
+| <img src="assets/icons/cpu.svg" height="16" alt="" /> **Motherboard Component Detection & Tracking**<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private (client)* | Semi-supervised detection and tracking model, **deployed on-site in production** for a Hungary-based manufacturer. | YOLOv8 · PyTorch · OpenCV · CVAT |
+| <img src="assets/icons/music.svg" height="16" alt="" /> [**Human vs AI Music Detection**](https://github.com/atifibrahim7/HumanAi-Music-Classification) | Detects AI-generated music. Compares 4 deep-learning models; the best reaches **85.5% accuracy**. | PyTorch · Transformers · Flask · Docker |
+| <img src="assets/icons/zap.svg" height="16" alt="" /> [**Neural Network on GPU**](https://github.com/atifibrahim7/NeuralNetwork-Parallelization) | MNIST network trained with CUDA optimizations: **~16x speedup** over the baseline. | CUDA · C · Tensor Cores |
+| <img src="assets/icons/shield-check.svg" height="16" alt="" /> **Headless Horseman** · API gateway for AI-agent traffic<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private* | Policy engine in front of APIs and MCP servers: **~10 ms median at 242 req/s**, 318 req/s sustained. OAuth 2.1, Stripe usage billing, 219/219 tests passing. | TypeScript · PostgreSQL · MCP · Docker · Terraform |
 
-### <img src="https://api.iconify.design/lucide/layers.svg?color=%237aa2f7&height=24" height="24" alt="" /> More projects
+### <img src="assets/icons/layers.svg" height="24" alt="" /> More projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| <img src="https://api.iconify.design/lucide/siren.svg?color=%237aa2f7&height=16" height="16" alt="" /> [**Real-Time Crime Analytics**](https://github.com/atifibrahim7/Real-Time-Crime-Analytics---Intelligent-Alert-System) | Lambda architecture on Chicago open data with live alerting. | Kafka · Spark · Storm · Streamlit |
-| <img src="https://api.iconify.design/lucide/image.svg?color=%237aa2f7&height=16" height="16" alt="" /> [**CUDA Edge Detection**](https://github.com/atifibrahim7/Cuda-Implementation-of-Edge-Detection) | GPU-accelerated Canny edge detection. | CUDA · C++ |
+| <img src="assets/icons/siren.svg" height="16" alt="" /> [**Real-Time Crime Analytics**](https://github.com/atifibrahim7/Real-Time-Crime-Analytics---Intelligent-Alert-System) | Lambda architecture on Chicago open data with live alerting. | Kafka · Spark · Storm · Streamlit |
+| <img src="assets/icons/image.svg" height="16" alt="" /> [**CUDA Edge Detection**](https://github.com/atifibrahim7/Cuda-Implementation-of-Edge-Detection) | GPU-accelerated Canny edge detection. | CUDA · C++ |
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%237aa2f7&height=24" height="24" alt="" /> Tech stack
+## <img src="assets/icons/wrench.svg" height="24" alt="" /> Tech stack
 
 **AI / ML**
 
@@ -70,7 +70,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,kafka,postgres,mongodb,docker,flask,fastapi,nextjs,ts,linux,git" alt="C++, C, Kafka, PostgreSQL, MongoDB, Docker, Flask, FastAPI, Next.js, TypeScript, Linux, Git" />
 </p>
 
-## <img src="https://api.iconify.design/lucide/chart-line.svg?color=%237aa2f7&height=24" height="24" alt="" /> GitHub stats
+## <img src="assets/icons/chart-line.svg" height="24" alt="" /> GitHub stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atifibrahim7&theme=tokyonight" alt="Profile details" />
