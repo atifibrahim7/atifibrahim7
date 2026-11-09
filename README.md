@@ -34,7 +34,7 @@
 | <img src="assets/icons/cpu.svg" height="16" alt="" /> **Motherboard Component Detection & Tracking**<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private (client)* | Semi-supervised detection and tracking model, **deployed on-site in production** for a Hungary-based manufacturer. | YOLOv8 · PyTorch · OpenCV · CVAT |
 | <img src="assets/icons/music.svg" height="16" alt="" /> [**Human vs AI Music Detection**](https://github.com/atifibrahim7/HumanAi-Music-Classification) | Detects AI-generated music. Compares 4 deep-learning models; the best reaches **85.5% accuracy**. | PyTorch · Transformers · Flask · Docker |
 | <img src="assets/icons/zap.svg" height="16" alt="" /> [**Neural Network on GPU**](https://github.com/atifibrahim7/NeuralNetwork-Parallelization) | MNIST network trained with CUDA optimizations: **~16x speedup** over the baseline. | CUDA · C · Tensor Cores |
-| <img src="assets/icons/shield-check.svg" height="16" alt="" /> **Headless Horseman** · API gateway for AI-agent traffic<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private* | Policy engine in front of APIs and MCP servers: **~10 ms median at 242 req/s**, 318 req/s sustained. OAuth 2.1, Stripe usage billing, 219/219 tests passing. | TypeScript · PostgreSQL · MCP · Docker · Terraform |
+| <img src="assets/icons/shield-check.svg" height="16" alt="" /> **Headless Horseman** · API gateway for AI-agent traffic<br><img src="assets/icons/lock.svg" height="16" alt="" /> *private* | Policy engine in front of APIs and MCP servers: **~10 ms median at 242 req/s**, 318 req/s sustained. OAuth 2.1, Stripe usage billing. | TypeScript · PostgreSQL · MCP · Docker · Terraform |
 
 ### <img src="assets/icons/layers.svg" height="24" alt="" /> More projects
 
